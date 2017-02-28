@@ -52,3 +52,4 @@ If you complete all of the required features you will get full credit. We will d
 To submit, please upload your code to either GitHub or Bitbucket, and use the "Github" or "Bitbucket" submission feature on Gradescope (we've experienced the fewest amount of bugs with students who have submitted this way). 
 
 Alternatively you can submit your project as a zip folder. To do this please open your ios-decal-proj1 folder in finder, and compress the contents inside (not the folder itself). This should generate a file, **Archive.zip**, that you can submit to [Gradescope](https://gradescope.com/courses/5482/assignments/18815). Please test that you uploaded correctly by downloading your submission, and testing that downloaded version in Xcode.
+#Hangman
